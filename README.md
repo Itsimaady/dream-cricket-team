@@ -2,8 +2,6 @@
 
 Welcome to **Super Strikers**, a visually engaging one-page website that showcases a custom-built dream cricket team! Built using HTML, CSS, and JavaScript — it's designed to be clean, responsive, and interactive for cricket fans.
 
-![Screenshot](images/screenshot.png)
-
 ---
 
 ## 🌟 Features
@@ -34,9 +32,3 @@ Welcome to **Super Strikers**, a visually engaging one-page website that showcas
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the Repo
-```bash
-git clone https://github.com/yourusername/dream-cricket-team.git
-cd dream-cricket-team
